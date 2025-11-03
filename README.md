@@ -12,7 +12,7 @@ I'm Fahmy, a data engineer transitioning into data science. I specialize in:
 
 ## 🚀 Featured Projects 
 
-### [Olist E-Commerce Analytics](https://github.com/fahmymahamud/hub25/tree/main/olist) A full-stack data pipeline project using Airflow, Microsoft Fabric, and Power BI to deliver actionable insights from e-commerce data.
+### [Olist E-Commerce Analytics](https://github.com/fahmymahamud/hub25/tree/main/olist.pptx) A full-stack data pipeline project using Airflow, Microsoft Fabric, and Power BI to deliver actionable insights from e-commerce data.
 
 
  ## 📫 Let's Connect - 
