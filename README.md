@@ -4,11 +4,15 @@ Fahmy Mahamud | Aspiring Data Engineer
 
 # 👋 Welcome to My Portfolio
 
-I'm Fahmy, a data engineer transitioning into data science. I specialize in:
+I am transitioning into data science and data engineering from the facilities management industry. I specialize in:
 
-- 🔄 Data pipelines (Airflow, Microsoft Fabric)
-- 🧪 Data cleaning & audit-ready workflows (SQL, Python)
-- 📊 Dashboarding (Power BI, DAX)
+🔄 Data ingestion & pipeline orchestration (Microsoft Fabric, Azure)
+
+🧪 Data cleaning, validation & audit-ready workflows (SQL, Python, pandas)
+
+📊 Dashboarding & storytelling (Power BI, Tableau)
+
+🧠 Applied ML & NLP fundamentals
 
 ## 🚀 Featured Projects 
 
@@ -17,4 +21,7 @@ I'm Fahmy, a data engineer transitioning into data science. I specialize in:
 
  ## 📫 Let's Connect - 
  
-### 📧 Email: [fahmymahamud@gmail.com](mailto:fahmymahamud@gmail.com) - 💼 [LinkedIn](https://www.linkedin.com/in/fahmymahamud) - 🐙 [GitHub](https://github.com/fahmymahamud) --- _“Building pipelines that are not just functional — but bulletproof, auditable, and stakeholder-ready.”_
+### 📧 Email: [fahmymahamud@gmail.com](mailto:fahmymahamud@gmail.com) - 💼 [LinkedIn](https://www.linkedin.com/in/fahmymahamud) - 
+
+
+--- _“Building pipelines that are not just functional — but bulletproof, auditable, and stakeholder-ready.”_
