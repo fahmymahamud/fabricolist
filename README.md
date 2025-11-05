@@ -1,27 +1,22 @@
----
-### Fahmy Mahamud | Aspiring Data Engineer
----
+##🎓 What I Learnt
+This final capstone project at the Generation Singapore Junior Data Engineering Bootcamp was a deep dive into real-world pipeline orchestration.
+Working as part of Group 5 – Cart Catalysts, I helped design and implement a modular data pipeline using Microsoft Fabric and Medallion architecture to clean, transform, and visualize Olist’s e-commerce data.
 
-# 👋 Welcome to My Portfolio
+Through this project, I learnt how to:
 
-I am transitioning into data science and data engineering from the facilities management industry. I specialize in:
+🏗️ **Build scalable**, audit-ready pipelines using Fabric Notebooks, PySpark, and Delta Lake
 
-🔄 Data ingestion & pipeline orchestration (Microsoft Fabric, Azure)
+🧼 **Apply robust data cleaning** logic with schema validation, null handling, and enrichment
 
-🧪 Data cleaning, validation & audit-ready workflows (SQL, Python, pandas)
+🔄 **Orchestrate** multi-layered workflows across Bronze, Silver, and Gold Lakehouse stages
 
-📊 Dashboarding & storytelling (Power BI, Tableau)
+📊 Deliver stakeholder-ready dashboards using **Power BI**, semantic modeling, and drill-through analytics
 
-🧠 Applied ML & NLP fundamentals
+🧠 Implement **Market Basket Analysis** with the Apriori algorithm for product recommendation insights
 
-## 🚀 Featured Projects 
+🔍 Integrate monitoring, alerting, and validation to ensure pipeline integrity and traceability
 
-### [Olist E-Commerce Analytics](https://github.com/fahmymahamud/fabricolist/tree/main/olist.pptx) A full-stack data pipeline project using Airflow, Microsoft Fabric, and Power BI to deliver actionable insights from e-commerce data.
+This project sharpened my skills in pipeline design, collaborative debugging, and stakeholder storytelling — and gave me the confidence to tackle complex data engineering challenges with clarity and precision.
 
-
- ## 📫 Let's Connect - 
- 
-### 📧 Email: [fahmymahamud@gmail.com](mailto:fahmymahamud@gmail.com) - 💼 [LinkedIn](https://www.linkedin.com/in/fahmymahamud) - 
-
-
---- _“Building pipelines that are not just functional — but bulletproof, auditable, and stakeholder-ready.”_
+### [Olist E-Commerce Analytics](https://github.com/fahmymahamud/fabricolist/tree/main/olist.pptx) 
+A full-stack data pipeline project using Airflow, Microsoft Fabric, and Power BI to deliver actionable insights from e-commerce data.
