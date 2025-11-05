@@ -1,4 +1,4 @@
-# 🎓 What I Learned
+# 🎓 What I Learnt
 
 This final capstone project at the Generation Singapore Junior Data Engineering Bootcamp was a deep dive into real-world pipeline orchestration.
 Working as part of Group 5 – Cart Catalysts, I helped design and implement a modular data pipeline using Microsoft Fabric and Medallion architecture to clean, transform, and visualize Olist’s e-commerce data.
